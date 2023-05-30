@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "proyectoFinalHotelAJRC/1.0.0": {
+        "runtime": {
+          "proyectoFinalHotelAJRC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "proyectoFinalHotelAJRC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
